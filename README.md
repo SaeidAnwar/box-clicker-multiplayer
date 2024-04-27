@@ -65,6 +65,13 @@ In this project I have created a Multiplayer game in which player have to click 
 
 ## Testing
 * ### Ran 3 instances of my game to verify the synchronisation
+<img width="720" src="/Screenshots/Screenshot (163).png">
+
 * ### Checked the connection between host and the clients.
+<img width="720" src="/Screenshots/Screenshot (164).png">
+
 * ### Checked Box spawning and despawing.
+<img width="720" src="/Screenshots/Screenshot (165).png">
+
 * ### Checked winning mechanism.
+<img width="720" src="/Screenshots/Screenshot (166).png">
