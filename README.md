@@ -11,9 +11,7 @@ This is a simple multiplayer project which I have made to learn about unity mult
 * ### Testing
 
 ## Introduction
-In this project I have created a Multiplayer game in which player have to click on boxes as fast as they can and the first player to achieve 8 points will win the game. This project is my submission towards the task given by Vyorius regarding the selection process of internship.
-
-https://github.com/SaeidAnwar/box-clicker-vyorius/assets/85637083/1996ff74-ed2a-4036-97a9-98367f3f229a
+In this project I have created a Multiplayer game in which player have to click on boxes as fast as they can and the first player to achieve 8 points will win the game.
 
 
 
