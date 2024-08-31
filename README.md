@@ -2,7 +2,7 @@
 # Multiplayer Box Clicking Game
 
 ## Overview
-This repository contains documentation of the project task assigned as part of the internship selection process by Vyorius.
+This is a simple multiplayer project which I have made to learn about unity multiplayer game development.
 
 ## Table of contents
 * ### Introduction
